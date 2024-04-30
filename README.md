@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arzoopatra
-- 👀 I’m a 1st yr. B.Tech ECE Student
+- 👀 I’m B.Tech ECE Student at IGDTUW'27
 - 🌱 I’m currently learning C & C++
 
 <!---
