@@ -1,4 +1,4 @@
-[![MasterHead]https://i.gifer.com/Qm4D.gif
+[![MasterHead](https://1.bp.blogspot.com/ -7A4WynwLsM...)](https://i.gifer.com/Qm4D.gif)
 <h1 align="center">🌷 Namaste 🌷</h1>
 <h3 align="center">A Girl who is Passionate and Learner</h3>
 
