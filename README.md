@@ -1,8 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/ -7A4WynwLsM...)](https://i.gifer.com/Qm4D.gif)
 <h1 align="center">🌷 Namaste 🌷</h1>
 <h3 align="center">A Girl who is Passionate and Learner</h3>
-
-<img align="right" alt="Coding" width="400" src= "https://tenor.com/bWSUL.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzoopatra&label=Profile%20views&color=0e75b6&style=flat" alt="arzoopatra" /> </p>
 
