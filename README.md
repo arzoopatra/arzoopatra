@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🩷 I'm Arzoo Patra</h1>
-<h3 align="center">A Girl who is Passionate and Learner</h3>https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif
+<h1 align="center">🌷 Namaste 🌷</h1>
+<h3 align="center">A Girl who is Passionate and Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzoopatra&label=Profile%20views&color=0e75b6&style=flat" alt="arzoopatra" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/arzoo_patra" target="blank"><img src="https://img.shields.io/twitter/follow/arzoo_patra?logo=twitter&style=for-the-badge" alt="arzoo_patra" /></a> </p>
 
-- 🌱 I’m currently learning **Programming Languages & Web Development**
+- 🌿 I’m currently learning **Programming Languages & Web Development**
 
-- 📫 How to reach me **arzoo012btece23@igdtuw.ac.in**
+- 📩 How to reach me **arzoo012btece23@igdtuw.ac.in**
 
-- ⚡ Fun fact **I become very Lazy 🥲 but Sometimes very Active 😂**
+- 🌝 Fun fact **I become very Lazy 🥲 but Sometimes very Active 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
