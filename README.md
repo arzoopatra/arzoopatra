@@ -1,3 +1,4 @@
+![logo](https://github.com/arzoopatra/arzoopatra/blob/main/Hello%2C%20My%20Name%20is%20Arzoo.%20Nice%20to%20Meet%20You..png)
 <h1 align="center">🌻 Namaste 🌻</h1>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+❤️;+I'm+Arzoo+Patra;Nice+to+Meet+You"/>
