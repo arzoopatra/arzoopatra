@@ -5,7 +5,7 @@
 </h1>
 
 
--⌨️ I’m currently learning **Programming Languages & Web Development**<img align="right" alt="gif" width="385" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
+-⌨️ I’m currently learning **Programming Languages & Web Development**<img align="right" alt="gif" width="382" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
 -📩 How to reach me **arzoo012btece23@igdtuw.ac.in**
 
