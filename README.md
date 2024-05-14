@@ -4,9 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My;GitHub+Page;For+Any+Query;Connect+through+E-Mail"/>
 </h1>
 
--⌨️ I’m currently learning **Programming Languages & Web Development** 
 
-<img align="right" alt="gif" width="480" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
+-⌨️ I’m currently learning **Programming Languages & Web Development**<img align="right" alt="gif" width="480" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
 -📩 How to reach me **arzoo012btece23@igdtuw.ac.in**
 
