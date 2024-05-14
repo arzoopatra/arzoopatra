@@ -2,8 +2,6 @@
 <h1 align="center">🌻 Namaste 🌻</h1>
 <h3 align="center">A Girl who is Passionate and Learner</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/en-IN/view/pixel-game-developerlife-developer-programmer-gif-7441597">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzoopatra&label=Profile%20views&color=0e75b6&style=flat" alt="arzoopatra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzoopatra" alt="arzoopatra" /></a> </p>
