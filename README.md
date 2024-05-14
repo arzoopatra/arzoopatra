@@ -2,6 +2,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+❤️;+I'm+Arzoo+Patra;Nice+to+Meet+You"/>
 </h1>
+<img align="center" alt="coding" width="1240" src="https://github.com/arzoopatra/arzoopatra/assets/148006189/315bfbe0-129c-45a2-b788-190c683eb2f8">
 
 <h3 align="center">A Girl who is Passionate and Learner</h3>
 
