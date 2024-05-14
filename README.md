@@ -24,7 +24,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzoopatra" alt="arzoopatra" /></a> </p>
 
+# 📊 GitHub Stats:
+<img align="center" width="465" src="https://github-readme-stats.vercel.app/api?username=arzoopatra&theme=jolly&hide_border=false&include_all_commits=false&count_private=false"><img align="right" width="510" src="https://github-readme-streak-stats.herokuapp.com/?user=arzoopatra&theme=jolly&hide_border=false">
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arzoopatra&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=arzoopatra&icon=5&color=10)](https://visitcount.itsvg.in)
 
 
 
