@@ -7,7 +7,7 @@
 
 -⌨️ I’m currently learning **Programming Languages & Web Development**<img align="right" alt="gif" width="379" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
--📩 How to reach me **arzoo012btece23@igdtuw.ac.in**
+-📩 How to reach me **arzoo.patra17@gmail.com**
 
 -✨️ Fun fact **I become very Lazy 🥲 but Sometimes very Active 😂**</h1>
 
