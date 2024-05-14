@@ -4,17 +4,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My;GitHub+Page;For+Any+Query;Connect+through+E-Mail"/>
 </h1>
 
-<h3 align="center">A Girl who is Passionate and Learner</h3>
+-⌨️ I’m currently learning **Programming Languages & Web Development** <img align="right" alt="gif" width="480" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
+
+-📩 How to reach me **arzoo012btece23@igdtuw.ac.in**
+
+-✨️ Fun fact **I become very Lazy 🥲 but Sometimes very Active 😂**</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arzoopatra&label=Profile%20views&color=0e75b6&style=flat" alt="arzoopatra" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzoopatra" alt="arzoopatra" /></a> </p>
-
-- ⌨️ I’m currently learning **Programming Languages & Web Development**
-
-- 📩 How to reach me **arzoo012btece23@igdtuw.ac.in**
-
-- ✨️ Fun fact **I become very Lazy 🥲 but Sometimes very Active 😂**
 
 <h3 align="center">🪴 Connect with Me 🪴</h3>
 <p align="center">
