@@ -31,3 +31,36 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arzoopatra&theme=yeblu)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arzoopatra&theme=yeblu&utcOffset=8)
+
+# GitHub credentials
+username = "arzoopatra"
+password = "Github@17052004"
+repository_name = "arzoopatra"
+
+# Number of days to create commits
+num_days = 365
+
+# Initialize GitHub instance
+g = Github(arzoopatra , Github@17052004)
+
+# Get repository
+repo = g.get_user().get_repo(arzoopatra)
+
+# Get today's date
+today = datetime.now()
+
+# Loop through each day and create a commit
+for i in range(num_days):
+    # Calculate date for the commit
+    commit_date = today - timedelta(days=i)
+    
+    # Create commit message
+    commit_message = "Contribution on {}".format(commit_date.strftime("%Y-%m-%d"))
+    
+    # Create a file with the commit date as its content
+    file_content = "Contribution on {}".format(commit_date.strftime("%Y-%m-%d"))
+    
+    # Commit the file to the repository
+    repo.create_file(commit_date.strftime("%Y-%m-%d.txt"), commit_message, file_content)
+    
+    print("Commit created on:", commit_date)
