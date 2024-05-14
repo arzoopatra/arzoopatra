@@ -1,5 +1,5 @@
 ![banner](https://github.com/arzoopatra/arzoopatra/blob/main/Hello%2C%20My%20Name%20is%20Arzoo.%20Nice%20to%20Meet%20You..png)
-<h1 align="center">🌻 Namaste 🌻</h1>
+</p><h1 align="center">🌻 Namaste 🌻</h1>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My;GitHub+Page;For+Any+Query;Connect+through+E-Mail"/>
 </h1>
@@ -11,7 +11,7 @@
 
 -✨️ Fun fact **I become very Lazy 🥲 but Sometimes very Active 😂**</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arzoopatra&label=Profile%20views&color=0e75b6&style=flat" alt="arzoopatra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arzoopatra&label=Profile%20views&color=0e75b6&style=flat" alt="arzoopatra" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzoopatra" alt="arzoopatra" /></a> </p>
 
 <h3 align="center">🪴 Connect with Me 🪴</h3>
