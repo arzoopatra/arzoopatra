@@ -2,16 +2,13 @@
 </p><h1 align="center">👾 About Me 👾</h1>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=9000&lines=I'm+currently+Learning;Programming+and+Development;For+Any+Query;Connect+through+💌+E-Mail"/>
-</h1> <img align="right" alt="gif" width="200" src="https://github.com/arzoopatra/arzoopatra/blob/main/kirby_calling_for_an_assistant_by_marxkirby-dbo5isa.gif">
+</h1>
 
 <img align="right" alt="gif" width="360" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
-<h3 align="left">Connect with Me</h3>
-<p align="left">
-<a href="https://twitter.com/@arzoo_patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arzoo_patra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arzoopatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arzoopatra" height="30" width="40" /></a>
-<a href="https://instagram.com/@arzoodiary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arzoodiary" height="30" width="40" /></a>
-<a href="https://medium.com/@arzoopatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arzoopatra" height="30" width="40" /></a></p>
+<h3 align="left">Connect with Me</h3><img align="right" alt="gif" width="200" src="https://github.com/arzoopatra/arzoopatra/blob/main/kirby_calling_for_an_assistant_by_marxkirby-dbo5isa.gif">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arzoo_draws) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arzoopatra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arzoopatra) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arzoo_draws) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arzoo_patra) 
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=arzoopatra&icon=0&color=5" alt="arzoopatra" /></p>
 
@@ -24,4 +21,5 @@
 <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=arzoopatra&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> <img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=arzoopatra&theme=radical&hide_border=false">
 
 <img align="center" width="1120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzoopatra&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+
 
