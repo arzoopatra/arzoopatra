@@ -6,8 +6,8 @@
 
 <img align="right" alt="gif" width="380" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
-<h3 align="center">🪴 Connect with Me 🪴</h3>
-<p align="center">
+<h3 align="left">🪴 Connect with Me 🪴</h3> <img align="right" alt="gif" width="150" src=
+<p align="left">
 <a href="https://twitter.com/@arzoo_patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arzoo_patra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arzoopatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arzoopatra" height="30" width="40" /></a>
 <a href="https://instagram.com/@arzoodiary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arzoodiary" height="30" width="40" /></a>
