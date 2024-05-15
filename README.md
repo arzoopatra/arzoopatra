@@ -2,11 +2,11 @@
 </p><h1 align="center">👾 About Me 👾</h1>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=9000&lines=I'm+currently+Learning;Programming+and+Development;For+Any+Query;Connect+through+💌+E-Mail"/>
-</h1>
+</h1> <img align="right" alt="gif" width="200" src="https://github.com/arzoopatra/arzoopatra/blob/main/kirby_calling_for_an_assistant_by_marxkirby-dbo5isa.gif">
 
 <img align="right" alt="gif" width="360" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
-<h3 align="left">Connect with Me</h3> <img align="right" alt="gif" width="200" src="https://github.com/arzoopatra/arzoopatra/blob/main/kirby_calling_for_an_assistant_by_marxkirby-dbo5isa.gif">
+<h3 align="left">Connect with Me</h3>
 <p align="left">
 <a href="https://twitter.com/@arzoo_patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arzoo_patra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arzoopatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arzoopatra" height="30" width="40" /></a>
