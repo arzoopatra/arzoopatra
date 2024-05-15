@@ -1,15 +1,10 @@
 ![banner](https://github.com/arzoopatra/arzoopatra/blob/main/banner.png)
-</p><h1 align="center">🌻 Namaste 🌻</h1>
+</p><h1 align="center">👾 About Me 👾</h1>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My;GitHub+Page;For+Any+Query;Connect+through+E-Mail"/>
 </h1>
 
-
--⌨️ I’m currently learning **Programming Languages & Web Development**<img align="right" alt="gif" width="379" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
-
--📩 How to reach me **arzoo.patra17@gmail.com**
-
--✨️ Fun fact **I become very Lazy 🥲 but Sometimes very Active 😂**</h1>
+<img align="right" alt="gif" width="1120" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
 <h3 align="center">🪴 Connect with Me 🪴</h3>
 <p align="center">
