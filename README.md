@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=I'm+currently+Learning;Programming+Languages+and+Web+Development;For+Any+Query;Connect+through+💌+E-Mail"/>
 </h1>
 
-<img align="right" alt="gif" width="1120" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
+<img align="right" alt="gif" width="380" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
 <h3 align="center">🪴 Connect with Me 🪴</h3>
 <p align="center">
@@ -22,7 +22,5 @@
 <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=arzoopatra&theme=algolia&hide_border=false&include_all_commits=false&count_private=false"><img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=arzoopatra&theme=algolia&hide_border=false">
 
 <img align="center" width="1120" src="https://github-contributor-stats.vercel.app/api?username=arzoopatra&limit=5&theme=algolia&combine_all_yearly_contributions=true">
-
-[![](https://visitcount.itsvg.in/api?id=arzoopatra&icon=5&color=5)](https://visitcount.itsvg.in)
 
 
