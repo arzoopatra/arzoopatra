@@ -1,8 +1,6 @@
 ![banner](https://github.com/arzoopatra/arzoopatra/blob/main/banner.png)
-</p><h1 align="center">🌼About Me🌼</h1>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=9000&lines=I'm+currently+Learning;Programming+and+Development;For+Any+Query;Connect+through+💌+E-Mail"/>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=FF00B5&background=FFF40000&vCenter=true&random=false&width=500&height=50&lines=Life+💛+Motto+:+if+(+sad+(+)+=+=+=+true+);sad+(+)+.+stop+(+)+Be+Awesome+✨+(+)+🌼" alt="Typing" /></a></h1>
 
 <img align="right" alt="gif" width="360" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
