@@ -1,5 +1,5 @@
 ![banner](https://github.com/arzoopatra/arzoopatra/blob/main/banner.png)
-</p><h1 align="center">👾 About Me 👾</h1>
+</p><h1 align="center">🌼About Me🌼</h1>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=9000&lines=I'm+currently+Learning;Programming+and+Development;For+Any+Query;Connect+through+💌+E-Mail"/>
 </h1>
