@@ -1,7 +1,3 @@
-![banner](https://github.com/arzoopatra/arzoopatra/blob/main/banner.png)
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=FF00B5&background=FFF40000&vCenter=true&random=false&width=500&height=50&lines=Life+💛+Motto+:+if+(+sad+(+)+=+=+=+true+); +sad+(+)+.+stop+(+)+Be+Awesome+✨+(+)+🌷" alt="Typing" /></a></h1>
-
 <img align="right" alt="gif" width="360" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
 <h3 align="left">💌 Connect with Me 💌</h3><img align="right" alt="gif" width="125" src="https://github.com/arzoopatra/arzoopatra/blob/main/kirby_calling_for_an_assistant_by_marxkirby-dbo5isa.gif">
