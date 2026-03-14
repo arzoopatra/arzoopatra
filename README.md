@@ -1,4 +1,4 @@
-<img align="right" alt="gif" width="220" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
+<img align="right" alt="gif" width="240" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
 <h3 align="left">💌 Connect with Me 💌</h3><img align="right" alt="gif" width="125" src="https://github.com/arzoopatra/arzoopatra/blob/main/kirby_calling_for_an_assistant_by_marxkirby-dbo5isa.gif">
 
