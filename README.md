@@ -9,11 +9,3 @@
 <h3 align="left">⚒️ Languages and Tools ⚒️</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-
-<p align="center" width="1120"> <a href="https://github-profile-trophy.vercel.app/?username=arzoopatra&theme=radical&no-frame=false&no-bg=true&margin-w=4"><img align="center" width="1120"src="https://github-profile-trophy.vercel.app/?username=arzoopatra&theme=radical&no-frame=false&no-bg=true&margin-w=4" /></a> </p>
-
-<img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=arzoopatra&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> <img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=arzoopatra&theme=radical&hide_border=false">
-
-<img align="center" width="1120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzoopatra&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-
-
