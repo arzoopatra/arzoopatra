@@ -1,8 +1,8 @@
-<img align="right" alt="gif" width="360" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
+<img align="right" alt="gif" width="220" src="https://github.com/arzoopatra/arzoopatra/blob/main/icegif-700.gif">
 
 <h3 align="left">💌 Connect with Me 💌</h3><img align="right" alt="gif" width="125" src="https://github.com/arzoopatra/arzoopatra/blob/main/kirby_calling_for_an_assistant_by_marxkirby-dbo5isa.gif">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arzivelle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arzoopatra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arzoopatra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arzivelle) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsarzoo.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arzoopatra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arzivelle) 
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=arzoopatra.visitor-badge&left_color=purple&right_color=violet&left_text=Hello%20Visitors" alt="arzoopatra" /></p>
 
